@@ -1,6 +1,33 @@
-center{
+table{
     background-color: rgba(39, 202, 202, .2);
-    width: 50%;
+    width: 48%;
     color: rgba(119, 38, 196, 0.76);
     margin-left: 31%;
+    margin-top: -250px;
+    
+}
+/* label{
+    margin-left: 200px;
+} */
+h2{
+    margin-left: 200px;
+}
+textarea{
+    margin-left: 0px;
+}
+#submit{
+    margin-left: 0px;
+    
+}
+#reset{
+    margin-left: 0px;
+}
+
+
+input{
+    margin-left: -500px;
+}
+
+male{
+    margin-left: 0px;
 }
